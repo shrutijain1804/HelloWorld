@@ -1,2 +1,2 @@
 # HelloWorld
-a sample hw repo
+This is a small little code.
